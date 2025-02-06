@@ -1,12 +1,33 @@
 This is an intuitive and user-friendly Python-powered application designed to streamline inventory management and billing processes for small-scale businesses. With its sleek graphical user interface (GUI), this solution empowers vendors to efficiently create and maintain their inventory, set pricing, and generate bills with ease.
+
 Tailored for industries such as hotels, restaurants, cafes, and retail shops, this application offers a free and accessible alternative to complex billing software. Leveraging the power of Python, it delivers a seamless experience, allowing vendors to update their inventory at the click of a button.
 
-Key features include:
+Key Features:
 
-Intuitive inventory creation and management
-Flexible pricing configuration
-Streamlined billing generation
-Seamless inventory updates
-Whether you're running a cozy café or a bustling retail shop, this Python-based application is the perfect companion to simplify your business operations and enhance your overall efficiency.
+1. Intuitive Inventory Creation and Management:
+   - Easily create and manage your product inventory.
+   - Maintain detailed information about each item, including descriptions, quantities, and pricing.
+
+2. Flexible Pricing Configuration:
+   - Set personalized pricing for each product.
+   - Implement discounts, promotions, and special offers to attract and retain customers.
+
+3. Streamlined Billing Generation:
+   - Generate accurate and professional-looking bills for your customers.
+   - Customize bill templates to match your brand and business preferences.
+
+4. Seamless Inventory Updates:
+   - Effortlessly update your inventory levels as items are sold or restocked.
+   - Receive real-time insights into your stock levels and sales trends.
+
+The application offers two versions to cater to different business needs:
+
+1. billingsof.exe:
+   - Suitable for general vendors such as stationery, retail shops, and garment shops.
+   - Designed for faster buy-and-go transactions with less interaction time.
+
+2. v2.exe:
+   - Ideal for hotels, restaurants, and cafes.
+   - Maintains a detailed order log and allows for more complex billing processes.
 
 For any queries or further information, please reach out to hiangadatyou.eml@gmail.com.
