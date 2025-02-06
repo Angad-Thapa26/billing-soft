@@ -12,13 +12,13 @@ Key Features:
    - Set personalized pricing for each product.
    - Implement discounts, promotions, and special offers to attract and retain customers.
 
-3. Streamlined Billing Generation:
+3*. Streamlined Billing Generation:
    - Generate accurate and professional-looking bills for your customers.
    - Customize bill templates to match your brand and business preferences.
+   - Hard copy printing option
 
-4. Seamless Inventory Updates:
-   - Effortlessly update your inventory levels as items are sold or restocked.
-   - Receive real-time insights into your stock levels and sales trends.
+
+
 
 The application offers two versions to cater to different business needs:
 
@@ -29,8 +29,11 @@ The application offers two versions to cater to different business needs:
 2. v2.exe:
    - Ideal for hotels, restaurants, and cafes.
    - Maintains a detailed order log and allows for more complex billing processes.
+   - v2 is quite complex operation and might require guidance
 
-For any queries or further information, please reach out to hiangadatyou.eml@gmail.com.
+For any queries , further information and suggestion, please reach out to hiangadatyou.eml@gmail.com.
+* to be updated later.
+This is opensource project  I shall bear no rights and obligations.
 
 ![image](https://github.com/user-attachments/assets/977150d1-9486-4921-bacc-3c5765440105)
 ![image](https://github.com/user-attachments/assets/81b65120-1dc7-47da-a085-4c09ac0b381e)
